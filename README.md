@@ -5,11 +5,6 @@
   <b>Computer Science Student | Aspiring Software Developer & AI Engineer</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-555555?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=Alvina1507&style=flat-square&color=555555&label=Profile+Views"/>
-</p>
-
 ---
 
 ### About Me
@@ -23,7 +18,7 @@
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode&theme=dark"/>
 </p>
 
@@ -35,7 +30,7 @@
 
 ### Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Alvina1507">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
