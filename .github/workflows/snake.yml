@@ -2,9 +2,9 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,10 +22,11 @@ jobs:
         with:
           github_user_name: Alvina1507
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%23161b22,%23444444,%23777777,%23aaaaaa,%23ffffff
-            dist/github-contribution-grid-snake-dark.gif?color_snake=%23ffffff&color_dots=%23161b22,%23444444,%23777777,%23aaaaaa,%23ffffff&color_background=%230d1117
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%230d1117,%23242424,%23444444,%23777777,%23ffffff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%230d1117,%23242424,%23444444,%23777777,%23ffffff
+            dist/github-contribution-grid-snake.gif?color_snake=%23ffffff&color_dots=%230d1117,%23242424,%23444444,%23777777,%23ffffff
 
-      - name: Publish Snake
+      - name: Publish Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
