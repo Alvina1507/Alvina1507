@@ -1,37 +1,61 @@
 
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-<img src="assets/cat-header.jpg" width="100%" alt="Developer Cat Header"/>
+<table width="100%">
+<tr>
 
-# `> ALVINA S_`
+<td width="52%" align="center" valign="middle">
 
-**B.Tech CSE | Developer | AI Enthusiast**
+<img src="./cat-header-banner.jpg.jpeg" width="100%" alt="Developer Cat at computer"/>
 
-*Building things, learning constantly, and debugging life.*
-
-</div>
-
----
-
-## ◈ About Me
-
-Hey! I'm **Alvina S** 👋
-
-A B.Tech Computer Science Engineering student at
-Jain (Deemed-to-be) University, Bengaluru.
-
-I enjoy building real-world projects, exploring AI,
-and creating clean, user-friendly web experiences.
-
-- 🎓 B.Tech in Computer Science Engineering
-- 🏫 Jain (Deemed-to-be) University, Bengaluru
-- 📅 Expected Graduation: 2027
-- 💻 Interested in Web Development & AI
-- 🎯 Goal: Software Developer / AI Engineer
+</td>
+</tr>
+</table>
 
 ---
 
-## ◈ Tech Stack
+<!-- ================= ABOUT ME ================= -->
+
+## ♙ About Me
+
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
+
+### Hey! I'm Alvina S 👋
+
+A B.Tech CSE student at Jain (Deemed-to-be) University, Bengaluru.
+
+I love building real-world projects, exploring AI, and creating clean, user-friendly web experiences.
+
+</td>
+<td width="45%" valign="middle">
+
+🎓 **Education**
+
+B.Tech in Computer Science Engineering
+
+🏛️ **University**
+
+Jain (Deemed-to-be) University, Bengaluru
+
+📅 **Graduation**
+
+2027
+
+⌘ **Goal**
+
+Software Developer / AI Engineer
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⌘ Tech Stack
 
 **Frontend Development**
 
@@ -41,7 +65,7 @@ and creating clean, user-friendly web experiences.
 ![CSS3](https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React_JS-252525?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node_JS-252525?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-252525?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -51,7 +75,7 @@ and creating clean, user-friendly web experiences.
 
 ![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-252525?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-252525?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-252525?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -81,24 +105,36 @@ and creating clean, user-friendly web experiences.
 
 ---
 
-## ◈ Snake
+<!-- ================= SNAKE ================= -->
+
+## ♧ Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alvina1507/Alvina1507/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Alvina1507/Alvina1507/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
-## ◈ Contribution Graph
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## ▥ Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvina1507&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvina1507&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=555555&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/>
 
-<img src="https://ghchart.rshah.org/8b949e/Alvina1507" width="100%" alt="GitHub Contribution Heatmap"/>
+<img src="https://ghchart.rshah.org/999999/Alvina1507" width="100%" alt="GitHub yearly contribution heatmap"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*See you in the next commit.*
 
 </div>
