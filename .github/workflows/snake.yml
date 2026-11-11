@@ -17,12 +17,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Snake GIF
         uses: Platane/snk@v3
         with:
           github_user_name: Alvina1507
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#444444,#777777,#aaaaaa,#ffffff
+            dist/github-contribution-grid-snake-dark.gif?color_snake=white&color_dots=%23161b22,%23444444,%23777777,%23aaaaaa,%23ffffff&color_background=%230d1117
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
