@@ -103,37 +103,8 @@ Software Developer / AI Engineer
 
 </div>
 
----
 
-<!-- ================= SNAKE ================= -->
 
-## ♧ Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alvina1507/Alvina1507/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## ▥ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvina1507&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=555555&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/999999/Alvina1507" width="100%" alt="GitHub yearly contribution heatmap"/>
-
-</div>
-
----
-
-<div align="center">
 
 *See you in the next commit.*
 
